@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lateef:wght@400;700&family=Noto+Nastaliq+Urdu:wght@400..700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Lateef", "Noto Nastaliq Urdu", "Inter", sans-serif;
+  --font-nastaliq: "Noto Nastaliq Urdu", serif;
+  --font-lateef: "Lateef", serif;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #f1f5f9; /* Slate-100 High Density theme background */
+}
+

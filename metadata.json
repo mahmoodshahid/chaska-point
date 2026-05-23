@@ -1,0 +1,6 @@
+{
+  "name": "M. Naveed Chaska Point",
+  "description": "ایم نوید چسکا پوائنٹ رینالہ کلاں کے لیے روزانہ سیل اور اخراجات کی رپورٹ بنانے اور واٹس ایپ پر شیئر کرنے والی ایپ۔",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
